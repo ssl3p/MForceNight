@@ -1,6 +1,6 @@
 # MForceNight
 
-🇫🇷 / 🇺🇸 Languages
+📦 **MForceNight** est disponible en **Frnaçais** et en **Anglais** !
 
 🗾 **MForceNight** marche avec tout les FrameWork existant !
 
