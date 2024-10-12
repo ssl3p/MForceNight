@@ -1,7 +1,9 @@
 # MForceNight
 
+🇫🇷 / 🇺🇸 Languages
+
 🗾 **MForceNight** marche avec tout les FrameWork existant !
 
-🔎 **MForceNight** est un script FiveM dont le but est de maintenir la nuit en permanence sur votre serveur. De plus il est possible de configurer les météo dans le serveur.
+🔎 **MForceNight** est un script FiveM dont le but est de centraliser tous les bans avec WaveShield. Une commande est disponible en jeu (/ban) afin de bannir un(e) utilisateur(-trice).
 
 🔩 Le ***support*** ce passe sur mon [discord](https://discord.gg/cZ52VXRTqX).
