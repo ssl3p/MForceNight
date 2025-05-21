@@ -1,7 +1,7 @@
-# MForceNight
+# sForce-night
 
-🗾 **MForceNight** marche avec tout les FrameWork existant !
+🗾 **sForce-night** marche avec tout les FrameWork existant !
 
-🔎 **MForceNight** est un script qui met la nuit de façon constante sur le serveur.
+🔎 **sForce-night** est un script qui met la nuit de façon constante sur le serveur.
 
-🔩 Le ***support*** ce passe sur mon [discord](https://discord.gg/cZ52VXRTqX).
+🔩 Le ***support*** ce passe sur mon (my discord **ssl3p**).
